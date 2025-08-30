@@ -62,5 +62,9 @@ cd Hand-written-digit-recognition-model
 ```
 ## Train and test the model
 ```
-
+pip install -r requirements.txt
+python src/training.py
+python src/utils.py
+python src/predicting.py
 ```
+
